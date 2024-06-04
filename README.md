@@ -15,8 +15,6 @@
    3. [Endscreen](#endScreen)
 2. [Skills](#skills)
 3. [Effects](#effects)
-4. [Errors and Informative Text](#text)
-5. [Settings](#settings)
 
 <h1>Scenes<a name="scenes"></h1>
 
@@ -91,8 +89,6 @@
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://github.com/MroseQ/Criminal-Turn-Based-RPG-/assets/46853552/39d521e8-5cb3-4518-bb52-0365636db3e4/EffectShowcase1">
 </div>
-
-<h1>Errors and Informative Text</h1><a name="text"></a>
 
 
 
